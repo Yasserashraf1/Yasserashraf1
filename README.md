@@ -28,7 +28,8 @@
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [Yasser Ashraf](https://www.linkedin.com/in/yasserashraf/) 
-- Email: **yasserashraf3142@gmail.com**  
-- GitHub: [Yasserashraf1](https://github.com/Yasserashraf1)
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasser%20Ashraf-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-ashraf-3142/)  
+[![Email](https://img.shields.io/badge/Email-yasserashraf3142%40gmail.com-red?logo=gmail&logoColor=white)](mailto:yasserashraf3142@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-green?logo=whatsapp&logoColor=white)](https://wa.me/201003640081)
