@@ -14,9 +14,9 @@
 ---
 
 ## 📂 Projects
-- 📱 [Android Kotlin](https://github.com/Yasserashraf1/Nomly) – Full-featured Android recipe app built with Kotlin 
-- 📱 [Flutter App Note](https://github.com/Yasserashraf1/NoteApp) – Cross-platform App Note with Sqflite DB
-- 📱 [https://github.com/Yasserashraf1/CampusConnect-University-Student-App) – A Flutter + Firebase mobile app that connects university students through groups, posts, and real-time notifications.
+- 📱 [Android Kotlin - Nomly](https://github.com/Yasserashraf1/Nomly) – Full-featured Android recipe app built with Kotlin 
+- 📱 [Flutter - App Note](https://github.com/Yasserashraf1/NoteApp) – Cross-platform App Note with Sqflite DB
+- 📱 [Flutter - CampusConnect](https://github.com/Yasserashraf1/CampusConnect-University-Student-App) – A Flutter + Firebase mobile app that connects university students through groups, posts, and real-time notifications.
 - 📊 [HR Management System](https://github.com/Yasserashraf1/Yasserashraf1-HR-Management-System-FCDS-NEGEh) – HR Management System combines manual employee record management with AI-driven predictive analytics
 
 ---
