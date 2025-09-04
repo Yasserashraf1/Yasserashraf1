@@ -29,6 +29,6 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Yasser Ashraf](linkedin.com/in/yasserashraf)  
+- LinkedIn: [Yasser Ashraf](https://linkedin.com/in/yasserashraf)  
 - Email: **yasserashraf3142@gmail.com**  
-- GitHub: [Yasserashraf1](github.com/YasserAshraf)
+- GitHub: [Yasserashraf1](https://github.com/YasserAshraf)
