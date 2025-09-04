@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Yasser Ashraf 👋
 
-<!--
-**Yasserashraf1/Yasserashraf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Flutter Developer | Mobile App Developer | Data Science Student**  
+🎓 4th-Year Data Science Student @ Alexandria University  
+📱 Passionate about building cross-platform apps and intelligent solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Mobile Development**: Flutter, Dart, Kotlin, Firebase, Android Security  
+- **Data Science & AI**: Python, R, SQL, Machine Learning, Deep Learning, Tableau  
+- **Programming & Tools**: Java, Git/GitHub, Docker  
+
+---
+
+## 📂 Projects
+- 📱 [Flutter To-Do App](#) – Cross-platform task manager with Firebase backend  
+- 🤖 [Image Classifier](#) – Deep learning model for image recognition (TensorFlow)  
+- 📊 [Sales Dashboard](#) – Interactive dashboard built with Tableau & Python  
+
+---
+
+## 🏆 Certifications
+- Mobile App Developer – **DEPI (MCIT)**  
+- AI & Machine Learning – **NTI**  
+- Java & OOP – **ITI**  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/yasserashraf](#)  
+- Email: **yasserashraf3142@gmail.com**  
+- GitHub: [github.com/YasserAshraf](#)
