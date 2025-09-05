@@ -22,10 +22,13 @@
 ---
 
 ## 🏆 Certifications
-- Mobile App Developer – **DEPI (MCIT), ITI**  
-- AI, Machine Learning and Data Analysis – **DEPI, NTI, MCLS**  
-- Java & OOP – **ITI**  
-
+- Mobile App Development (DEPI Round II) for **Ministry of Communications and Information Technology (MCIT)** 
+- Android Development for **Information Technology Institute (ITI)**
+- Mastering OOP Using Java Programming for **ITI**
+- AI for Data Science for **National Telecommunication Institute (NTI)**
+- Data Analytics Specialization **(DEPI Round I) for MCIT**
+- Data Science Track for **Microsoft Learn Student Club (MLSC)**
+- HCIA-AI V3.5 for **(Huawei Talent Online)**
 ---
 
 ## 📫 Connect with Me  
