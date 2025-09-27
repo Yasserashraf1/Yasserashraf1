@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Projects
-- 📱 [Flutter - Notes App](https://github.com/Yasserashraf1/NoteApp) – A modern, feature-rich notes application built with Flutter and PHP, offering seamless note-taking experience with image attachments, user profiles, and multi-language support.
+- 📱 [Flutter - Notes App](https://github.com/Yasserashraf1/Notes-App) – A modern, feature-rich notes application built with Flutter and PHP, offering seamless note-taking experience with image attachments, user profiles, and multi-language support.
 - 📱 [Android Kotlin - Nomly](https://github.com/Yasserashraf1/Nomly) – Full-featured Android recipe app built with Kotlin 
 - 📱 [Flutter - CampusConnect](https://github.com/Yasserashraf1/CampusConnect-University-Student-App) – A Flutter + Firebase mobile app that connects university students through groups, posts, and real-time notifications.
 - 📊 [HR Management System](https://github.com/Yasserashraf1/Yasserashraf1-HR-Management-System-FCDS-NEGEh) – HR Management System combines manual employee record management with AI-driven predictive analytics
