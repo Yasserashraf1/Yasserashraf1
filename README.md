@@ -7,13 +7,14 @@
 ---
 
 ## 🚀 Skills
-- **Mobile Development**: Flutter, Dart, Kotlin, Firebase, Android Security  
+- **Mobile Development**: Flutter, Dart, Kotlin, Firebase, Php, Android Security  
 - **Data Science & AI**: Python, R, SQL, Machine Learning, Deep Learning, Tableau  
 - **Programming & Tools**: Java, Git/GitHub, Docker 
 
 ---
 
 ## 📂 Projects
+- 📱 [Flutter - Naseej](https://github.com/naseej-egypt) – Egyptian Handmade Carpets E-Commerce Platform, Naseej is a comprehensive, full-stack e-commerce ecosystem dedicated to authentic Egyptian handmade carpets
 - 📱 [Flutter - Notes App](https://github.com/Yasserashraf1/Notes-App) – A modern, feature-rich notes application built with Flutter and PHP, offering seamless note-taking experience with image attachments, user profiles, and multi-language support.
 - 📱 [Android Kotlin - Nomly](https://github.com/Yasserashraf1/Nomly) – Full-featured Android recipe app built with Kotlin 
 - 📱 [Flutter - CampusConnect](https://github.com/Yasserashraf1/CampusConnect-University-Student-App) – A Flutter + Firebase mobile app that connects university students through groups, posts, and real-time notifications.
