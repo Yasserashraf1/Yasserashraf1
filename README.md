@@ -15,7 +15,7 @@
 
 ##  Projects
 -  [Flutter - Naseej](https://github.com/naseej-egypt) – Egyptian Handmade Carpets E-Commerce Platform, Naseej is a comprehensive, full-stack e-commerce ecosystem dedicated to authentic Egyptian handmade carpets.
--  [[Smart School: Interactive Educational Platform]](https://github.com/Yasserashraf1/Smart-School-Interactive-Educational-Platform) – Smart School is a comprehensive, interactive Flutter application specifically engineered to enhance the learning experience for Egyptian secondary school students.  
+-  [Smart School: Interactive Educational Platform](https://github.com/Yasserashraf1/Smart-School-Interactive-Educational-Platform) – Smart School is a comprehensive, interactive Flutter application specifically engineered to enhance the learning experience for Egyptian secondary school students.  
 -  [Flutter - Notes App](https://github.com/Yasserashraf1/Notes-App) – A modern, feature-rich notes application built with Flutter and PHP, offering seamless note-taking experience with image attachments, user profiles, and multi-language support.
 -  [Android Kotlin - Nomly](https://github.com/Yasserashraf1/Nomly) – Full-featured Android recipe app built with Kotlin 
 -  [HR Management System](https://github.com/Yasserashraf1/Yasserashraf1-HR-Management-System-FCDS-NEGEh) – HR Management System combines manual employee record management with AI-driven predictive analytics
