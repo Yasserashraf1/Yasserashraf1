@@ -1,8 +1,8 @@
-# Hi, I'm Yasser Ashraf 👋
+# Hi, I'm Yasser Ashraf 
 
- **Flutter Developer | Mobile App Developer | Data Science Student**  
- 4th-Year Data Science Student @ Alexandria University  
- Passionate about building cross-platform apps and intelligent solutions  
+ * **Flutter Developer | Mobile App Developer | Data Science Student**  
+ * 4th-Year Data Science Student @ Alexandria University  
+ * Passionate about building cross-platform apps and intelligent solutions  
 
 ---
 
