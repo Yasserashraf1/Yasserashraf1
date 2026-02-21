@@ -1,28 +1,29 @@
 # Hi, I'm Yasser Ashraf 👋
 
-💻 **Flutter Developer | Mobile App Developer | Data Science Student**  
-🎓 4th-Year Data Science Student @ Alexandria University  
-📱 Passionate about building cross-platform apps and intelligent solutions  
+ **Flutter Developer | Mobile App Developer | Data Science Student**  
+ 4th-Year Data Science Student @ Alexandria University  
+ Passionate about building cross-platform apps and intelligent solutions  
 
 ---
 
-## 🚀 Skills
+##  Skills
 - **Mobile Development**: Flutter, Dart, Kotlin, Firebase, Php, Android Security  
 - **Data Science & AI**: Python, R, SQL, Machine Learning, Deep Learning, Tableau  
 - **Programming & Tools**: Java, Git/GitHub, Docker 
 
 ---
 
-## 📂 Projects
-- 📱 [Flutter - Naseej](https://github.com/naseej-egypt) – Egyptian Handmade Carpets E-Commerce Platform, Naseej is a comprehensive, full-stack e-commerce ecosystem dedicated to authentic Egyptian handmade carpets
-- 📱 [Flutter - Notes App](https://github.com/Yasserashraf1/Notes-App) – A modern, feature-rich notes application built with Flutter and PHP, offering seamless note-taking experience with image attachments, user profiles, and multi-language support.
-- 📱 [Android Kotlin - Nomly](https://github.com/Yasserashraf1/Nomly) – Full-featured Android recipe app built with Kotlin 
-- 📱 [Flutter - CampusConnect](https://github.com/Yasserashraf1/CampusConnect-University-Student-App) – A Flutter + Firebase mobile app that connects university students through groups, posts, and real-time notifications.
-- 📊 [HR Management System](https://github.com/Yasserashraf1/Yasserashraf1-HR-Management-System-FCDS-NEGEh) – HR Management System combines manual employee record management with AI-driven predictive analytics
+##  Projects
+-  [Flutter - Naseej](https://github.com/naseej-egypt) – Egyptian Handmade Carpets E-Commerce Platform, Naseej is a comprehensive, full-stack e-commerce ecosystem dedicated to authentic Egyptian handmade carpets.
+-  [[Smart School: Interactive Educational Platform]](https://github.com/Yasserashraf1/Smart-School-Interactive-Educational-Platform) – Smart School is a comprehensive, interactive Flutter application specifically engineered to enhance the learning experience for Egyptian secondary school students.  
+-  [Flutter - Notes App](https://github.com/Yasserashraf1/Notes-App) – A modern, feature-rich notes application built with Flutter and PHP, offering seamless note-taking experience with image attachments, user profiles, and multi-language support.
+-  [Android Kotlin - Nomly](https://github.com/Yasserashraf1/Nomly) – Full-featured Android recipe app built with Kotlin 
+-  [Flutter - CampusConnect](https://github.com/Yasserashraf1/CampusConnect-University-Student-App) – A Flutter + Firebase mobile app that connects university students through groups, posts, and real-time notifications.
+-  [HR Management System](https://github.com/Yasserashraf1/Yasserashraf1-HR-Management-System-FCDS-NEGEh) – HR Management System combines manual employee record management with AI-driven predictive analytics
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 - Mobile App Development (DEPI Round II) for **Ministry of Communications and Information Technology (MCIT)** 
 - Android Development for **Information Technology Institute (ITI)**
 - Mastering OOP Using Java Programming for **ITI**
@@ -32,7 +33,7 @@
 - HCIA-AI V3.5 for **(Huawei Talent Online)**
 ---
 
-## 📫 Connect with Me  
+##  Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasser%20Ashraf-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasserashraf/)  
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasser-ashraf-production-ready-mobile-apps.vercel.app/)  
