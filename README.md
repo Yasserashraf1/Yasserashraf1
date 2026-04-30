@@ -1,28 +1,34 @@
 # Hi, I'm Yasser Ashraf 
-
  * **Flutter Developer | Mobile App Developer | Data Science Student**  
  * 4th-Year Data Science Student @ Alexandria University  
  * Passionate about building cross-platform apps and intelligent solutions  
 
 ---
 
-##  Skills
+## 🛠 Skills
 - **Mobile Development**: Flutter, Dart, Kotlin, Firebase, Php, Android Security  
 - **Data Science & AI**: Python, R, SQL, Machine Learning, Deep Learning, Tableau  
 - **Programming & Tools**: Java, Git/GitHub, Docker 
 
 ---
 
-##  Projects
--  [Order](https://github.com/Order-gaza) – Comprehensive, multi-platform e-commerce and delivery management ecosystem. Built with modern, scalable technologies, this platform bridges the gap between customers, regional vendors, and logistics administrators, ensuring a seamless, real-time order fulfillment pipeline.
--  [Flutter - Naseej](https://github.com/naseej-egypt) – Egyptian Handmade Carpets E-Commerce Platform, Naseej is a comprehensive, full-stack e-commerce ecosystem dedicated to authentic Egyptian handmade carpets.
--  [Smart School: Interactive Educational Platform](https://github.com/Yasserashraf1/Smart-School-Interactive-Educational-Platform) – Smart School is a comprehensive, interactive Flutter application specifically engineered to enhance the learning experience for Egyptian secondary school students.  
--  [Flutter - Notes App](https://github.com/Yasserashraf1/Notes-App) – A modern, feature-rich notes application built with Flutter and PHP, offering seamless note-taking experience with image attachments, user profiles, and multi-language support.
--  [Android Kotlin - Nomly](https://github.com/Yasserashraf1/Nomly) – Full-featured Android recipe app built with Kotlin 
+## 🚀 Projects
+
+- 🛒 [Order](https://github.com/Order-gaza) – Comprehensive, multi-platform e-commerce and delivery management ecosystem. Built with modern, scalable technologies, this platform bridges the gap between customers, regional vendors, and logistics administrators, ensuring a seamless, real-time order fulfillment pipeline.  
+  [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="50">](https://play.google.com/store/apps/details?id=com.yasser.order)
+
+- 🧵 [Flutter - Naseej](https://github.com/naseej-egypt) – Egyptian Handmade Carpets E-Commerce Platform, Naseej is a comprehensive, full-stack e-commerce ecosystem dedicated to authentic Egyptian handmade carpets.  
+  [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="50">](https://play.google.com/store/apps/details?id=com.yasser.naseej)
+
+- 🎓 [Smart School: Interactive Educational Platform](https://github.com/Yasserashraf1/Smart-School-Interactive-Educational-Platform) – Smart School is a comprehensive, interactive Flutter application specifically engineered to enhance the learning experience for Egyptian secondary school students.  
+
+- 📝 [Flutter - Notes App](https://github.com/Yasserashraf1/Notes-App) – A modern, feature-rich notes application built with Flutter and PHP, offering seamless note-taking experience with image attachments, user profiles, and multi-language support.
+
+- 🍽️ [Android Kotlin - Nomly](https://github.com/Yasserashraf1/Nomly) – Full-featured Android recipe app built with Kotlin 
 
 ---
 
-##  Certifications
+## 🏅 Certifications
 - Mobile App Development (DEPI Round II) for **Ministry of Communications and Information Technology (MCIT)** 
 - Android Development for **Information Technology Institute (ITI)**
 - Mastering OOP Using Java Programming for **ITI**
@@ -30,11 +36,11 @@
 - Data Analytics Specialization **(DEPI Round I) for MCIT**
 - Data Science Track for **Microsoft Learn Student Club (MLSC)**
 - HCIA-AI V3.5 for **(Huawei Talent Online)**
+
 ---
 
-##  Connect with Me  
-
+## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasser%20Ashraf-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasserashraf/)  
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasser-ashraf-production-ready-mobile-apps.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-yasserashraf3142%40gmail.com-red?logo=gmail&logoColor=white)](mailto:yasserashraf3142@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-green?logo=whatsapp&logoColor=white)](https://wa.me/201003640081) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-green?logo=whatsapp&logoColor=white)](https://wa.me/201003640081)
