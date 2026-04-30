@@ -15,10 +15,10 @@
 ## 🚀 Projects
 
 - 🛒 [Order](https://github.com/Order-gaza) – Comprehensive, multi-platform e-commerce and delivery management ecosystem. Built with modern, scalable technologies, this platform bridges the gap between customers, regional vendors, and logistics administrators, ensuring a seamless, real-time order fulfillment pipeline.  
- [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="28">](https://play.google.com/store/apps/details?id=com.yasser.order)  [![Website](https://img.shields.io/badge/Web_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://order-gaza.web.app/) 
+  [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45">](https://play.google.com/store/apps/details?id=com.yasser.order) [![Website](https://img.shields.io/badge/Web_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://order-gaza.web.app/)
 
 - 🧵 [Flutter - Naseej](https://github.com/naseej-egypt) – Egyptian Handmade Carpets E-Commerce Platform, Naseej is a comprehensive, full-stack e-commerce ecosystem dedicated to authentic Egyptian handmade carpets.  
-   [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="28">](https://play.google.com/store/apps/details?id=com.yasser.naseej) [![Website](https://img.shields.io/badge/Web_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naseej-460f5.web.app/)
+  [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45">](https://play.google.com/store/apps/details?id=com.yasser.naseej) [![Website](https://img.shields.io/badge/Web_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naseej-460f5.web.app/)
 
 - 🎓 [Smart School: Interactive Educational Platform](https://github.com/Yasserashraf1/Smart-School-Interactive-Educational-Platform) – Smart School is a comprehensive, interactive Flutter application specifically engineered to enhance the learning experience for Egyptian secondary school students.  
   [![itch.io](https://img.shields.io/badge/itch.io-Download-FA5C5C?logo=itch.io&logoColor=white)](https://yasser-ashraf.itch.io/smart-school-interactive-educational-platform)
