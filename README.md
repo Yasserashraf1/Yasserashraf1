@@ -6,9 +6,9 @@
 ---
 
 ## Skills
-- **Mobile Development**: Flutter, Dart, Kotlin, Firebase, Provider, Getx, Riverpod, Php, Android Security  
+- **Mobile Development**: Flutter, Dart, Kotlin, Firebase, Provider, Riverpod, Getx, Php, Android Security 
 - **Data Science & AI**: Python, R, SQL, Machine Learning, Deep Learning, Tableau  
-- **Programming & Tools**: Java, Git/GitHub, Docker 
+- **Programming & Tools**: Java, Git/GitHub, Docker, Git, Github
 
 ---
 
