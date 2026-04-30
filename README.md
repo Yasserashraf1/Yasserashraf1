@@ -15,7 +15,7 @@
 ## 🚀 Projects
 
 - 🛒 [Order](https://github.com/Order-gaza) – Comprehensive, multi-platform e-commerce and delivery management ecosystem. Built with modern, scalable technologies, this platform bridges the gap between customers, regional vendors, and logistics administrators, ensuring a seamless, real-time order fulfillment pipeline.  
-  [![Website](https://img.shields.io/badge/Web_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://order-gaza.web.app/) [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="28">](https://play.google.com/store/apps/details?id=com.yasser.order)
+ [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="28">](https://play.google.com/store/apps/details?id=com.yasser.order)  [![Website](https://img.shields.io/badge/Web_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://order-gaza.web.app/) 
 
 - 🧵 [Flutter - Naseej](https://github.com/naseej-egypt) – Egyptian Handmade Carpets E-Commerce Platform, Naseej is a comprehensive, full-stack e-commerce ecosystem dedicated to authentic Egyptian handmade carpets.  
   [![Website](https://img.shields.io/badge/Web_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naseej-460f5.web.app/) [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="28">](https://play.google.com/store/apps/details?id=com.yasser.naseej)
