@@ -5,14 +5,14 @@
 
 ---
 
-## 🛠 Skills
+## Skills
 - **Mobile Development**: Flutter, Dart, Kotlin, Firebase, Php, Android Security  
 - **Data Science & AI**: Python, R, SQL, Machine Learning, Deep Learning, Tableau  
 - **Programming & Tools**: Java, Git/GitHub, Docker 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - [Order](https://github.com/Order-gaza) – Comprehensive, multi-platform e-commerce and delivery management ecosystem. Built with modern, scalable technologies, this platform bridges the gap between customers, regional vendors, and logistics administrators, ensuring a seamless, real-time order fulfillment pipeline.  
   [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="50">](https://play.google.com/store/apps/details?id=com.yasser.order)
@@ -28,7 +28,7 @@
 
 ---
 
-## 🏅 Certifications
+## Certifications
 - Mobile App Development (DEPI Round II) for **Ministry of Communications and Information Technology (MCIT)** 
 - Android Development for **Information Technology Institute (ITI)**
 - Mastering OOP Using Java Programming for **ITI**
@@ -39,7 +39,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasser%20Ashraf-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasserashraf/)  
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasser-ashraf-production-ready-mobile-apps.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-yasserashraf3142%40gmail.com-red?logo=gmail&logoColor=white)](mailto:yasserashraf3142@gmail.com)  
