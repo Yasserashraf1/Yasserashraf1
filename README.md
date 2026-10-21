@@ -23,7 +23,7 @@ Architected a production-ready P2P rental platform across 30+ responsive screens
 - **Client Security**: Hardened app security with startup root/jailbreak detection gates and native Android screenshot prevention (`FLAG_SECURE` in Kotlin).
 - **Real-Time Features**: Integrated real-time peer-to-peer chat and audio messaging via WebSockets.
 - **State & Architecture**: BLoC / Cubit state management with Clean Architecture.  
-[![Google Play](https://img.shields.io/badge/Google_Play-Available_Now-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/)
+[![Google Play](https://img.shields.io/badge/Google_Play-Available_Now-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yasser.renty)
 
 ---
 
