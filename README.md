@@ -62,7 +62,7 @@ Interactive Flutter application engineered to enhance the learning experience fo
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasser%20Ashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasserashraf/)
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yasser-ashraf-production-ready-mobile-apps.vercel.app/)
