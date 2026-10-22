@@ -45,7 +45,10 @@ Full-scale e-commerce ecosystem spanning 50+ screens across 2 dedicated Flutter 
 ---
 
 ###  [Smart School: Interactive Educational Platform](https://github.com/Yasserashraf1/Smart-School-Interactive-Educational-Platform)
-Interactive Flutter application engineered to enhance the learning experience for Egyptian secondary school students, featuring offline caching, student progress dashboards, and interactive assessments.  
+Offline-capable Flutter learning app for Egyptian secondary students, combining interactive assessments, multimedia lessons, and personalized progress tracking.
+- **Learning Experience**: Built interactive quizzes with instant feedback, embedded YouTube lessons, customizable avatars, and engaging Lottie animations and achievement celebrations.
+- **Offline & Data Management**: Implemented local data persistence using SQLite and SharedPreferences, enabling students to retain progress and access saved data without a constant internet connection.
+- **Architecture & State Management**: Structured the app using feature-based modular architecture with Provider for state management, supporting maintainable and scalable feature development.
 [![itch.io](https://img.shields.io/badge/itch.io-Download-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://yasser-ashraf.itch.io/smart-school-interactive-educational-platform)
 
 ---
